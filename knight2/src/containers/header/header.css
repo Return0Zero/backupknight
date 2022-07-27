@@ -1,6 +1,8 @@
 .header-container {
     background-color: #1C202B;
     color: white;
+    justify-content: center;
+    position: relative;
     padding-top: 8%;
 }
 
@@ -12,6 +14,8 @@
     z-index: 9;
     justify-content: space-evenly;
     padding-bottom: 8%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .cleaningcrew {

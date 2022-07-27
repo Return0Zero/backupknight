@@ -39,8 +39,16 @@
     font-weight: 400;
 }
 
-.hamburger-menu, .close-menu {
-    width: 40px;
+.close-menu {
+    width: 35px;
+    height: 35px;
+    right: 3%;
+    margin-top: 0.5%;
+}
+
+.hamburger-menu {
+    width: 35px;
+    height: 40px;
     right: 3%;
 }
 
@@ -78,7 +86,7 @@
         width: 35px;
         height: 35px;
         right: 3%;
-        margin-top: 1.8%;
+        margin-top: 1%;
     }
 
     .hamburger-menu {
@@ -101,14 +109,14 @@
         width: 30px;
         height: 30px;
         right: 3%;
-        margin-top: 1.5%;
+        margin-top: 2.5%;
     }
 
     .hamburger-menu {
         width: 35px;
         height: 35px;
         right: 3%;
-        margin-top: 1%;
+        margin-top: 0.5%;
     }
 }
 
@@ -124,13 +132,13 @@
         width: 25px;
         height: 25px;
         right: 3%;
-        margin-top: 2.7%;
+        margin-top: 5%;
     }
 
     .hamburger-menu {
         width: 30px;
         height: 30px;
         right: 3%;
-        margin-top: 2%;
+        margin-top: 3%;
     }
 }
