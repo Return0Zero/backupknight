@@ -3,9 +3,8 @@ import './form.css';
 
 const Form = () => {
     return (
-        <form className='form--container' action="https://formsubmit.co/knightmultiservices@gmail.com" method="POST">
+        <form className='form--container' action="https://formsubmit.co/knightmultiservice@gmail.com" method="POST">
             <h1>Contact us directly</h1>
-            <input type="hidden" name="_next" value="https://knightmultiservices-thankyou.netlify.app/"></input>
             <input type="hidden" name="_subject" value="Nuevo Correo!"></input>
             <input className='input' type='text' placeholder='Name' name='name' required/>
             <input className='input' type='email' placeholder='Email' name='email' required/>
