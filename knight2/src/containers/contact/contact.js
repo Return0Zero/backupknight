@@ -68,8 +68,8 @@ function Contact() {
           <div className='social-media-container'>
             <p>Follow Us:</p>
             <div className='social-media-icons'>
-              <a href='#'><img src={FacebookIcon} alt="Facebook Icon" className="contact-icon"/></a>
-              <a href='#'><img src={InstagramIcon} alt="Instagram Icon" className="contact-icon"/></a>
+              <a href='https://www.facebook.com/knightmultiservices' target="_blank"><img src={FacebookIcon} alt="Facebook Icon" className="contact-icon"/></a>
+              <a href='https://www.facebook.com/knightmultiservices' target="_blank"><img src={InstagramIcon} alt="Instagram Icon" className="contact-icon"/></a>
             </div>
           </div>
         </div>
