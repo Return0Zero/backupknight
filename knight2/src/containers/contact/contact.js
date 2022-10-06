@@ -43,7 +43,7 @@ function Contact() {
           <p>Currently serving <b>Ashburn</b> and the following areas:</p>
             <div className="contact-service-areas">
               <ul>
-                <li>Leesburgy</li>
+                <li>Leesburg</li>
                 <li>Dulles</li>
                 <li>Herndon</li>
                 <li>Reston</li>
