@@ -35,9 +35,9 @@ function Contact() {
               </div>
             </div>
           </div>
-          <a href='mailto: knightmultiservices@gmail.com' className='email-information'>
+          <a href='mailto: knightmultiservice@gmail.com' className='email-information'>
             <img src={EmailIcon} alt="Email Icon" className="contact-icon"/>
-            <p>knightmultiservices@gmail.com</p>
+            <p>knightmultiservice@gmail.com</p>
           </a>
           <div>
           <p>Currently serving <b>Ashburn</b> and the following areas:</p>

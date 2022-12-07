@@ -54,7 +54,7 @@ function Services() {
       <div className="services-content">
         <div className="services-text">
           <h1>Other Services</h1>
-          <p>Here at Knight Multiservices we want to make sure that you can enjoy your home as much as possible that is why we offer you <b>Power Washing, Gutter Cleaning,</b> and more!</p>
+          <p>Here at Knight Multiservice we want to make sure that you can enjoy your home as much as possible that is why we offer you <b>Power Washing, Gutter Cleaning,</b> and more!</p>
           <p>Contact us today for your <b>free</b> and easy estimate.</p>
         </div>
         <img src={PowerwashingServices} alt="Powerwashing Services" className="services-powerwashing-images"/>
